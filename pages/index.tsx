@@ -64,7 +64,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          What To Do?
+          My Custom Header
           <small>{process.env.NEXT_PUBLIC_TEST}</small>
         </h1>
 
